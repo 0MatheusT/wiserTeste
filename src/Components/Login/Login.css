@@ -1,0 +1,68 @@
+.login_content {
+  margin-right: auto;
+  padding-left: 112px;
+  width: 257px;
+  height: 518px;
+  left: 877px;
+  top: 136x;
+}
+
+.login_form {
+  margin: 0;
+  padding: 0;
+}
+
+.login_title {
+  /* Olá, seja bem-vindo! */
+  margin: 0;
+  padding: 0;
+  height: 96px;
+  text-align: left;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 48px;
+  /* or 120% */
+
+  color: #383e71;
+}
+
+.login_legend {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  padding: 0;
+  text-align: left;
+  width: 222px;
+  height: 40px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  /* or 125% */
+
+  color: #989fdb;
+}
+
+.login_footer {
+  bottom: 0;
+  margin-top: 16px;
+  width: 212px;
+  height: 40px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+
+  text-align: center;
+  color: #989fdb;
+}
+
+span {
+  color: #9d25b0;
+}
